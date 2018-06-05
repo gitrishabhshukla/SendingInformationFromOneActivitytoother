@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sending Information From One Activity to other</string>
+    <string name="action_settings">Settings</string>
+</resources>
